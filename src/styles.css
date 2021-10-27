@@ -98,7 +98,7 @@ p {
 
 .social-icons {
     height: 80px;
-    margin: 400px;
+    margin: 40px;
 }
 
 .sub-section {
@@ -149,11 +149,6 @@ h2 {
     .project-container {
         display: flex;
         flex-wrap: wrap;
-    }
-    
-    .social-icons {
-        height: 80px;
-        margin: 40px;
     }
 }
 

@@ -170,7 +170,9 @@ hr {
 }
 
 .resume-link {
-    text-decoration: none; 
+    text-decoration: none;
+    font-szie: 30px;
+    font-weight: 400;
 }
 
 .resume-text {

@@ -170,13 +170,13 @@ hr {
 }
 
 .resume-link {
-    text-decoration: none;
-    color: #4d45bd;
+    text-decoration: none; 
 }
 
 .resume-text {
     margin-bottom: 50px;
     margin-top: 0px;
+    color: blue;
 }
 
 a {

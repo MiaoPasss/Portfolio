@@ -150,6 +150,11 @@ h2 {
         display: flex;
         flex-wrap: wrap;
     }
+    
+    .social-icons {
+        height: 80px;
+        margin: 40px;
+    }
 }
 
 .project-image {

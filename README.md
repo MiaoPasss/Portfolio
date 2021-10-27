@@ -1,3 +1,3 @@
 # Personal Website
 
-https://miaopasss.github.io/Portfolio/
+https://miaopasss.github.io/portfolio/

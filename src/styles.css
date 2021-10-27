@@ -113,6 +113,7 @@ p {
 
 h2 {
     font-size: 50px;
+    margin-bottom: 0px;
 }
 
 .photo {
@@ -123,6 +124,7 @@ h2 {
 .photo-container {
     display: flex;
     align-items: center;
+    flex-direction: column;
 }
 
 .project-card {
@@ -165,6 +167,16 @@ hr {
 .project-link {
     text-decoration: none;
     color: #ef744b;
+}
+
+.resume-link {
+    text-decoration: none;
+    color: #4d45bd;
+}
+
+.resume-text {
+    margin-bottom: 50px;
+    margin-top: 0px;
 }
 
 a {

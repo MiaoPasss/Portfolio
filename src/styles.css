@@ -91,6 +91,7 @@ p {
 .logo {
     height: 150px;
     margin: 25px;
+    border-radius: 5px;
 }
 
 .social-icons {

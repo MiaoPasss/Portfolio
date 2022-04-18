@@ -158,9 +158,11 @@ h2 {
 }
 
 .project-image {
+    object-fit: cover;
+    width: 80%;
     margin-top: 25px;
     height: 125px;
-    border-radius: 100px;
+    border-radius: 75px;
 }
 
 hr {
